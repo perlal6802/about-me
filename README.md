@@ -1,6 +1,9 @@
-### Perla Lopez
+# Perla Lopez
+
+## Student
 
 ### **Gmail:** Perlal6802@hstat.org
+
 
 **School:** _HSTAT_ 
 
